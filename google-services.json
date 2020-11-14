@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327282121834",
+    "firebase_url": "https://pico-mychatapp.firebaseio.com",
+    "project_id": "pico-mychatapp",
+    "storage_bucket": "pico-mychatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327282121834:android:959168937026954b73be13",
+        "android_client_info": {
+          "package_name": "com.example.CSCommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327282121834-6dd19vb5tgv2asj19cf5p6mbv6l7cqdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CSCommunity",
+            "certificate_hash": "1b2e97699233f078745040268fd5275cec332594"
+          }
+        },
+        {
+          "client_id": "327282121834-rdv75aeelrncc1eldvmjv82s71hnllh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfc2GxqTcINIjEPhG5W8QZpr0CLLK4zZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327282121834-rdv75aeelrncc1eldvmjv82s71hnllh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
