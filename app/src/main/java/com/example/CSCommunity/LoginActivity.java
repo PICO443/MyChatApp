@@ -56,7 +56,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
-        // Login Button:
+        // Login Button *HI AGAIN*:
         loginBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
